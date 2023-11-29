@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656003256714",
+    "project_id": "new-firebase-setup-ddf5e",
+    "storage_bucket": "new-firebase-setup-ddf5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656003256714:android:f8224df5d047c74ba1f873",
+        "android_client_info": {
+          "package_name": "com.example.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmJrj_CCAtiKw4DWcU-VnXY9f5MGVr1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
